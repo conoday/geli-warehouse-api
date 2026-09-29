@@ -1,0 +1,23 @@
+# Java / Maven
+backend/target/
+backend/data/
+backend/.mvn/wrapper/MavenWrapperMain.class
+
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/*.tsbuildinfo
+npm-debug.log*
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Local secrets and assessment source
+.env
+.env.*
+*.pdf
